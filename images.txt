@@ -1,5 +1,4 @@
-rabbitmq:3.12.9
-rocketmq:5.1.0
+apache/rocketmq:5.1.0
 skywalking-oap-server:9.3.0
 skywalking-ui:9.3.0
 rocketmq:5.1.0
