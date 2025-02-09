@@ -1,4 +1,4 @@
-canal/canal-server:v1.1.6、v1.1.7
+canal/canal-server:v1.1.6
 canal/canal-adapter:v1.1.6
 elasticsearch:7.17.14
 kibana:7.17.14
