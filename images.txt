@@ -1,4 +1,3 @@
-rediscommander/redis-commander:0.8.0
 rabbitmq:3.12.9
 rocketmq:5.1.0
 skywalking-oap-server:9.3.0
