@@ -1,4 +1,4 @@
-kalendm/sentinel-dashboard:1.8.6
+bladex/sentinel-dashboard:latest
 bitnami/mysqld-exporter:latest
 oliver006/redis_exporter:alpine-amd64
 oliver006/redis_exporter:alpine-arm64
