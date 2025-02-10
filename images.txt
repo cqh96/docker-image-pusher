@@ -1,9 +1,5 @@
-slpcat/canal-adapter:v1.1.5
-elasticsearch:7.17.14
-kibana:7.17.14
-zookeeper:3.9.0
-xxl-job/xxl-job-aarch64:2.4.0
-xxl-job/xxl-job-admin:2.4.0
+xxl-job-aarch64:2.4.0
+xxl-job-admin:2.4.0
 nacos-server:v2.2.3-slim
 kafka:3.7.0
 smartloli/kafka-eagle:3.0.2
