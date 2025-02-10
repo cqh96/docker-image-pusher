@@ -1,4 +1,4 @@
-canal-adapter:v1.1.6
+canal-adapter:1.1.6
 elasticsearch:7.17.14
 kibana:7.17.14
 zookeeper:3.9.0
