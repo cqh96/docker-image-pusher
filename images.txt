@@ -1,5 +1,4 @@
-canal/canal-server:v1.1.6
-canal/canal-adapter:v1.1.6
+slpcat/canal-adapter:v1.1.6
 elasticsearch:7.17.14
 kibana:7.17.14
 zookeeper:3.9.0
