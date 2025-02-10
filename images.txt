@@ -1,6 +1,6 @@
-xxljob/xxl-job-admin:2.4.0
-nacos-server:v2.2.3-slim
-kafka:3.7.0
+xuxueli/xxl-job-admin:2.4.0
+nacos/nacos-server:v2.2.3-slim
+bitnami/kafka:3.7.0
 smartloli/kafka-eagle:3.0.2
 logstash:7.14.2
 registry:latest
