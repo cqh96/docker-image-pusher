@@ -1,4 +1,4 @@
-nickzurich/kafka-eagle:3.0.2
+nickzurich/kafka-eagle:latest
 logstash:7.14.2
 registry:latest
 sentinel-dashboard:1.8.7
